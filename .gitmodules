@@ -5,7 +5,7 @@
 # sky130_fd_pr
 [submodule "libraries/sky130_fd_pr/latest"]
 	path = libraries/sky130_fd_pr/latest
-	url = https://github.com/google/skywater-pdk-libs-sky130_fd_pr.git
+	url = https://github.com/ucb-substrate/skywater-pdk-libs-sky130_fd_pr.git
 	branch = main
 	shallow = true
 	fetchRecurseSubmodules = false
@@ -59,7 +59,7 @@
 	fetchRecurseSubmodules = false
 [submodule "libraries/sky130_fd_pr/v0.0.9"]
 	path = libraries/sky130_fd_pr/v0.0.9
-	url = https://github.com/ucb-substrate/skywater-pdk-libs-sky130_fd_pr.git
+	url = https://github.com/google/skywater-pdk-libs-sky130_fd_pr.git
 	branch = branch-0.0.9
 	shallow = true
 	fetchRecurseSubmodules = false
