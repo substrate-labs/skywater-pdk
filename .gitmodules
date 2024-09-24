@@ -104,7 +104,7 @@
 # sky130_fd_sc_hs
 [submodule "libraries/sky130_fd_sc_hs/latest"]
 	path = libraries/sky130_fd_sc_hs/latest
-	url = https://github.com/google/skywater-pdk-libs-sky130_fd_sc_hs.git
+	url = https://github.com/ucb-substrate/skywater-pdk-libs-sky130_fd_sc_hs.git
 	branch = main
 	shallow = true
 	fetchRecurseSubmodules = true
